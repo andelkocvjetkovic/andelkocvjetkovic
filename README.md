@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Anđelko, a Software Developer focused on JavaScript with Vue.js and Nuxt.js
+#### I'm Anđelko, a Software Developer focus on JavaScript, Vue.js and Nuxt.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andelkocvjetkovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--

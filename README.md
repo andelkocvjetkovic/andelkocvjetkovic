@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Anđelko, a Software Developer mainly focused on JavaScript with Vue.js, Nuxt.js, Tailwind.css.
+### I'm Anđelko, a Software Developer focused on JavaScript with Vue.js, Nuxt.js, Tailwind.css.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andelkocvjetkovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--

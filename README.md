@@ -1,10 +1,6 @@
 ## Hi there 👋
 #### I'm Anđelko, a Software Developer focus on JavaScript
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=andelkocvjetkovic&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andelkocvjetkovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

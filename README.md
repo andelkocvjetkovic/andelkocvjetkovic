@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Anđelko, a Software Developer focus on JavaScript
+#### I'm Anđelko, a Frontend Developer
 
 
 

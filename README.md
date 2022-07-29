@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm Anđelko, a Frontend Developer
+#### I'm Andjelko, a Frontend Developer
 
 
 
